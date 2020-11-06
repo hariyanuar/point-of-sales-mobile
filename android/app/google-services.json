@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472263455728",
+    "firebase_url": "https://point-of-sales-mobile-fb623.firebaseio.com",
+    "project_id": "point-of-sales-mobile-fb623",
+    "storage_bucket": "point-of-sales-mobile-fb623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472263455728:android:b67054fcdd1f7b7e192335",
+        "android_client_info": {
+          "package_name": "com.harry76.point_of_sales_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472263455728-7eh001cin8e8tmanro4tqlc1jbk0a4c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harry76.point_of_sales_mobile",
+            "certificate_hash": "9a59ad8096ac02947e00ba2c0ef4ac255aff4390"
+          }
+        },
+        {
+          "client_id": "472263455728-325bcs0afgu5gid0ae1si1f6cckso03i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO10oLaT8LmGh_npq7j7y9xjJGcLUscho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472263455728-325bcs0afgu5gid0ae1si1f6cckso03i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
